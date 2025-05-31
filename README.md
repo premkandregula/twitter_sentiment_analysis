@@ -82,4 +82,7 @@ pip install -r requirements.txt
 - Evaluate using metrics like F1-score, ROC-AUC
 - Deploy model as an API
 
-## 
+## ## 🔗 Connect with Me
+
+[LinkedIn Profile](https://www.linkedin.com/in/kandregula-prem-kumar-059642238)
+
